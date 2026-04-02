@@ -1,0 +1,21 @@
+HOW TO PLAY
+
+PLAYER vs. PLAYER:
+1. The first player clicks a grid to place their chip on the board.
+2. After the first player places the chip on the board, the second player clicks a grid on the board.
+3. Whoever connects their chip in 4 in a row, whether horizontally, vertically, or diagonally, earns a point.
+4. The player who gets two points first wins the game.
+
+PLAYER vs. BOT:
+1. The player takes the first turn to click a grid and place their chip on the board.
+2. After the player places the chip, the bot takes a turn to click on a grid.
+3. Whoever connects their chip in 4 in a row, whether horizontally, vertically, or diagonally, earns a point.
+4. The first to get two points wins the game.
+
+PLAYER vs. PLAYER (FREE MODE):
+1. The first player chooses to click on any grid to place their chip on the board.
+2. After a player places the chip, another player chooses to click on any grid.
+3. Whoever connects their chip in 4 in a row, whether horizontally, vertically, or diagonally, earns a point.
+4. The player who gets two points first wins the game.
+
+NOTE: Once a player clicks a grid, they are not allowed to click on that grid again.

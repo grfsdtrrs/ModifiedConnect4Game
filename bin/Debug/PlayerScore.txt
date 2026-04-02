@@ -1,0 +1,7 @@
+Ace,1,0
+xian,1,0
+dae,3,1
+syd,2,1
+
+acer,5,2
+asus,1,0
